@@ -34,7 +34,7 @@ html, body{
     width: 100px;
 }
 .logo{
-    background-image: url("/amazonimg.jpeg");
+    background-image: url("amazonimg.jpeg");
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -167,7 +167,7 @@ align-items: center;
     width: 85%;
     
     /* background-color: lightgreen; */
-    background-image: url(/Skin.jpg);
+    background-image: url(Skin.jpg);
     background-size: cover;
     margin: 0 7vw;
     background-position: center;
